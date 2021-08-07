@@ -66,3 +66,4 @@ Ninja 仅支持 qinglong 2.8+
 * 更新 Ninja 只需要在容器中 `ninja/backend` 目录执行 `git pull` 然后 `pm2 start`
 
 * Qinglong 需要在登录状态（`auth.json` 中有 token）
+111
